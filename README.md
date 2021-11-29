@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Lanche0928/Lanche0928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Public information
 
-Here are some ideas to get you started:
+Hi there, my name is Gustavo but my friends call me 'Humilde', I like watching anime and do some weird ass things, I started coding because my back hurts and I need a job because I can't keep being a VASP forever, am I right? ~background laughs~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Detailed information
+
+- Name: Gustavo Muito Humilde Flores Calazans(Humilde)
+- Age: 21
+- Living in: Belo Horizonte, MG - Brazil
+- Stack: Javascript(currently learning) 
+
+## Curiosities about me
+
+- I like anime pretty much;
+- I started coding because my back hurts really bad(yes I have 21yrs old);
+- I like chocolate easter egg with rice,beans and sausage, actually is my favorite dish;
+- O_O.
