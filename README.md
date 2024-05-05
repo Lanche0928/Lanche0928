@@ -1,18 +1,20 @@
 
 ## Public information
 
-Hi there, my name is Gustavo but my friends call me 'Humilde', I like watching anime and do some weird ass things, I started coding because my back hurts and I need a job because I can't keep being a VASP forever, am I right? [background laughs]
+Hi there, my name is Gustavo but my friends call me 'Gustavo', I like watching anime and do some random stuff, I started coding because my back hurts and I need a job because I can't keep being a VASP forever, am I right? [background laughs]
 
 ## Detailed information
 
-- Name: Gustavo Muito Humilde Flores Calazans(Humilde)
-- Age: 21
+- Name: Gustavo Muito Humilde Flores Calazans
+- Age: 23
 - Living in: Belo Horizonte, MG - Brazil
-- Stack: Javascript(currently learning) 
+- Stack: Javascript, Python
 
 ## Curiosities about me
 
-- I like anime a lot;
-- I started coding because my back hurts(yes I am 21yrs old);
+- I like anime and manga;
+- I like lucha libre;
+- I started coding because my back hurts(yes I am 23yrs old);
+- I like to draw;
 - I like chocolate easter egg with rice,beans and sausage, actually is my favorite dish;
 - O_O.
