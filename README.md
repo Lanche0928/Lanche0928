@@ -8,7 +8,7 @@ Hi there, my name is Gustavo but my friends call me 'Gustavo', I like watching a
 - Name: Gustavo Vinicius Flores Calazans
 - Age: 23
 - Living in: Belo Horizonte, MG - Brazil
-- Stack: Javascript, Python
+- Programming Languages: Javascript, Python
 
 ## Curiosities about me
 
